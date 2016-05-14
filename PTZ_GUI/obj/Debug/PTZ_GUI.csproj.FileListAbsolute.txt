@@ -1,0 +1,15 @@
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\bin\Debug\PTZ_GUI.exe.config
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\bin\Debug\PTZ_GUI.exe
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\bin\Debug\PTZ_GUI.pdb
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\PTZ_GUI.csprojResolveAssemblyReference.cache
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\MainWindow.g.cs
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\App.g.cs
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\PTZ_GUI_MarkupCompile.cache
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\PTZ_GUI_MarkupCompile.lref
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\App.baml
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\MainWindow.baml
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\PTZ_GUI.g.resources
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\PTZ_GUI.Properties.Resources.resources
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\PTZ_GUI.csproj.GenerateResource.Cache
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\PTZ_GUI.exe
+c:\users\ychost\documents\visual studio 2015\Projects\PTZ_GUI\PTZ_GUI\obj\Debug\PTZ_GUI.pdb
